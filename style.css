@@ -38,3 +38,14 @@ p,
 img {
   margin-bottom: 16px;
 }
+
+/* Inline block */
+
+strong#inline-block {
+  display: inline-block;
+  color: white;
+  background-color: red;
+  width: 100px;
+  margin-top: 32px;
+  text-align: center;
+}
